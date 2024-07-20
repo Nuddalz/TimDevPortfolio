@@ -370,6 +370,10 @@ section{
     color: #ededed;
     text-decoration: none;
 }
+.project-imgoverlay a:hover{
+    color: #DFD0B8;
+    text-decoration: none;
+}
 .project-img:hover img{
     transform: scale(1.2);
 }
